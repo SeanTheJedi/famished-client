@@ -1,0 +1,91 @@
+.highlight-section {
+  width: 60%;
+}
+
+.highlight-section > div {
+  display: flex;
+  //height: 50px;
+}
+
+.custom-row1 > .custom-col1 {
+  background-color: rgb(22, 119, 84, 25%);
+  border-radius: 7px;
+}
+
+.green {
+  color: #167754;
+}
+
+.custom-row2 > .custom-col1 {
+  background-color: #F8B122;
+  border-radius: 7px;
+  width: 50px;
+  height: 100%;
+}
+
+.picture-grid {
+  height: 85%;
+  width: 100%;
+  background-color: gray;
+  display: flex;
+  flex-direction: column;
+  gap: 2%;
+}
+
+.picture-row-1 {
+  width: 100%;
+  height: 60%;
+  background-color: aquamarine;
+  display: flex;
+  gap: 2%;
+}
+
+.picture-row-2 {
+  width: 100%;
+  height: 40%;
+  background-color: bisque;
+  display: flex;
+  gap: 2%;
+}
+
+.picture-box-1 {
+  width: 60%;
+  height: 100%;
+  background-color: red;
+}
+
+.picture-box-2 {
+  width: 40%;
+  height: 100%;
+  background-color: red;
+}
+
+.picture-box-3 {
+  width: 60%;
+  height: 100%;
+  background-color: red;
+}
+
+.picture-box-4 {
+  width: 40%;
+  height: 100%;
+  background-color: red;
+}
+
+.picture-grid img {
+  object-fit: fill;
+  height: 100%;
+  width: 100%;
+  border-radius: 10px;
+}
+
+.picture-row-1 > div {
+
+}
+
+
+
+
+
+
+
