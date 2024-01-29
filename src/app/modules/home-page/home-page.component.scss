@@ -1,0 +1,11 @@
+.subsection-img {
+  height: 500px;
+  width: 100%;
+  object-fit: fill;
+}
+
+.menu-category-img {
+  height: 250px;
+  object-fit: cover;
+  filter: brightness(80%);
+}
