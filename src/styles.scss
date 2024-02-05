@@ -15,6 +15,15 @@ $navbar-light-hover-color: $primary;
 @import 'bootstrap-icons/font/bootstrap-icons.css';
 
 // Then add additional custom code here
+.menu-item-card {
+  width: 20rem;
+}
+
+.menu-item-img {
+  height: 12rem;
+  object-fit: cover;
+}
+
 
 
 
